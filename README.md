@@ -4,4 +4,4 @@ This paper introduces Guo’s Survival-Driven AI Model (GSDM), a comprehensive a
  
 In addition, given that Artificial Consciousness (AC) is often regarded as an essential constituent of AGI, the appendix advances Guo’s Micro-State Theory of Consciousness (GMST). GMST not only grounds the emergence of consciousness in physics and information theory but also articulates mechanistic accounts of subjective experience, selfhood, affect, and mental phenomena. Moreover, it extends the evaluative scope of the Turing Test (Turing, 1950) from semantic performance to underlying physical mechanisms, offering a unified analytic framework for interrogating the existence of consciousness across biological and artificial systems.
  
-**paper access：** [clock to visit the full paper](https://doi.org/10.5281/zenodo.16983357)
+**paper access：** [click to visit the full paper](https://doi.org/10.5281/zenodo.16983357)
